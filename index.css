@@ -1,5 +1,12 @@
 body {
-    background-color: darksalmon;
+    background-color: rgb(70, 182, 107);
+}
+
+#clockText {
+    color: rgb(190, 37, 37);
+    font-size: 22px;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #clockContainer {
@@ -16,7 +23,7 @@ body {
 #minute,
 #second {
     position: absolute;
-    background: black;
+    background: rgb(49, 6, 6);
     border-radius: 10px;
     transform-origin: bottom;
 }
