@@ -13,8 +13,8 @@ body {
 
     position: relative;
     margin: auto;
-    height: 90vw;
-    width: 90vw;
+    height: 50vw;
+    width: 50vw;
     background: url(clock.png) no-repeat;
     background-size: 100%;
 }
